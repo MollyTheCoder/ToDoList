@@ -1,0 +1,17 @@
+ [
+	{
+  "status": "notStarted",
+  "title": "Not Started",
+  "list": ["apples", "oranges", "bananas"]
+  },
+  {
+  "status": "inProgress",
+  "title": "In Progress",
+  "list": ["papaya", "kiwi", "mango"]
+  },
+  {
+  "status": "done",
+  "title": "Done",
+  "list": ["pomelo", "grapes", "watermelon"]
+  }
+]
